@@ -16,7 +16,7 @@ function AboutCard() {
             I have been apart of some projects and ready to use my skills to help others. 
             <br />
             <br />
-            Besides from coding, some other activities that I love to do!
+            Besides from coding, some other activities that I love to do are :
           </p>
           <ul>
             <li className="about-activity">
@@ -29,13 +29,13 @@ function AboutCard() {
               <ImPointRight /> Traveling
             </li>
             <li className="about-activity">
-              <ImPointRight /> Enjoy playing video games
+              <ImPointRight /> Playing video games
             </li>
             <li className="about-activity">
               <ImPointRight /> Hanging out with my friends
             </li>
             <li className="about-activity">
-              <ImPointRight /> I'm into photography
+              <ImPointRight /> As well as photography
             </li>
           </ul>
 

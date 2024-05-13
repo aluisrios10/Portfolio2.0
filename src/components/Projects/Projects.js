@@ -24,7 +24,7 @@ function Projects() {
               imgPath={AIChess}
               isBlog={false}
               title="AI Chess"
-              description="Ai chess is a game where you are able to play against an Ai or if you don't wanna play you can watch two Ai computers go aganist each other. It has some features like an undo or redo so you could have the advantage."
+              description="Ai chess is a game where you are able to play against an Ai or if you don't wanna play you can watch two Ai computers go against each other."
               ghLink="https://github.com/aluisrios10/AI-Chess"
             />
           </Col>
@@ -34,7 +34,7 @@ function Projects() {
               imgPath={FSAH}
               isBlog={false}
               title="FSAH - Financial Helper"
-              description="Many students enter college aiming for a career, only to graduate burdened with substantial debt, complicating their start in life. Difficulties in accessing financial advisors, who are often booked for weeks or months, exacerbate this issue as students struggle to obtain necessary guidance."
+              description="Many students enter college aiming for a career but graduate burdened with substantial debt, complicating their start in life. The difficulty in accessing financial advisors, who are often booked for weeks or months, exacerbates this issue, as students struggle to obtain the necessary guidance."
               ghLink="https://github.com/aluisrios/CPSC-491-FSAH-Project"
             />
           </Col>
@@ -44,7 +44,7 @@ function Projects() {
               imgPath={WebQuiz}
               isBlog={false}
               title="WebQuiz"
-              description="WebQuiz is a place where you can login, or signup if you are a new and be able to take some of our many quizzes, as well it would tell you which questions you miss and will give you your score in the end."
+              description="WebQuiz is a place where you can login, or signup if you are new and be able to take some of our many quizzes."
               ghLink="https://github.com/danny-garxia/WebQuiz"       
             />
           </Col>

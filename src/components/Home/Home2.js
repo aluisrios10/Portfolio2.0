@@ -19,18 +19,20 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-             I started getting into coding in middle school and since I been trying to learn how to code 
-             I have at least learn a thing or two about coding. 
+             I started to grow an interest in coding since Middle School, and since then I've learned a thing or two about it. This is one of the many reasons
+             I decided to pursue a degree in Computer Science. I've been open to learning different coding lanuages and I'm always looking for ways to improve my skills to be able 
+             to expand my knowledge. 
+
               <br />
-              <br /> My most common coding lanuages I think I'm good at is 
+              <br /> The most common coding lanuages I'm good at is 
               <i>
-                <b className="purple"> C++, Javascript, html, CSS, Python. </b>
+                <b className="purple"> C++, Javascript, HTML, CSS, and Python. </b>
               </i>
               <br />
               <br />
-              My Interests are building  &nbsp;
+              My interests are coding &nbsp;
               <i>
-                <b className="purple">websites, ios apps, and games</b>
+                <b className="purple">Websites, IOS Apps, and Games</b>
               </i>
               <br />
               <br />
