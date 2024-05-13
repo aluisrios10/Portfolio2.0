@@ -44,7 +44,7 @@ function Home2() {
               </i>
               &nbsp; like
               <i>
-                <b className="purple"> React.js</b>
+                <b className="purple"> React.js</b> which I was able to learn doing this project.
               </i>
             </p>
           </Col>
@@ -58,7 +58,7 @@ function Home2() {
           <Col md={12} className="home-about-social">
             <h1>Social Media</h1>
             <p>
-              Feel free to <span className="purple">connect </span>with me
+              Feel free to <span className="purple">contact </span>with me
             </p>
             <ul className="home-about-social-links">
               <li className="social-icons">
