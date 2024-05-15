@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Portfolio2.0/static/css/main.b8cff30e.css",
+    "main.js": "/Portfolio2.0/static/js/main.b6b700ef.js",
+    "static/js/770.b477def6.chunk.js": "/Portfolio2.0/static/js/770.b477def6.chunk.js",
+    "static/js/453.1407b060.chunk.js": "/Portfolio2.0/static/js/453.1407b060.chunk.js",
+    "static/media/me.JPG": "/Portfolio2.0/static/media/me.6f029c94d07978195225.JPG",
+    "static/media/me2.JPG": "/Portfolio2.0/static/media/me2.e7e1444691dc14c7a663.JPG",
+    "static/media/mycar.JPG": "/Portfolio2.0/static/media/mycar.253acc915880148ad67b.JPG",
+    "static/media/scanner.jpg": "/Portfolio2.0/static/media/scanner.ac3436e5f837d1956d23.jpg",
+    "static/media/AIChess.PNG": "/Portfolio2.0/static/media/AIChess.ca06d75c60066e596cd7.PNG",
+    "static/media/FSAH.png": "/Portfolio2.0/static/media/FSAH.087172f35390cb62e689.png",
+    "static/media/UpdatedResume.pdf": "/Portfolio2.0/static/media/UpdatedResume.5c618c8cbfa2e3dc3017.pdf",
+    "static/media/WebQuiz.PNG": "/Portfolio2.0/static/media/WebQuiz.03d73a91f591e0e54375.PNG",
+    "static/media/pre.svg": "/Portfolio2.0/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/Portfolio2.0/index.html",
+    "main.b8cff30e.css.map": "/Portfolio2.0/static/css/main.b8cff30e.css.map",
+    "main.b6b700ef.js.map": "/Portfolio2.0/static/js/main.b6b700ef.js.map",
+    "770.b477def6.chunk.js.map": "/Portfolio2.0/static/js/770.b477def6.chunk.js.map",
+    "453.1407b060.chunk.js.map": "/Portfolio2.0/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b8cff30e.css",
+    "static/js/main.b6b700ef.js"
+  ]
+}
